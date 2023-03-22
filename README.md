@@ -32,7 +32,10 @@ A Frontend Web Developer love to build and share new things with others.
 
 ### **Latest Projects 🚀**
 
-### **Some of my Github Stats 🎓**
+- [Imovies App](https://imovie-five.vercel.app/)
+- [AI Image Generator](https://ai-image-gen-tau.vercel.app/)
+- [Foody App](https://foody113.netlify.app/)
+- [Full Stack E-Commerce ](https://eshop113.herokuapp.com/)
 
 ### **Connect with me ⚡**
 
